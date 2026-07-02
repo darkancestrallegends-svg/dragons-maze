@@ -7,7 +7,7 @@
 ### Instalação
 
 # Clone o repositório
-git clone https://github.com/SEU_USERNAME/dragons-maze.git
+git clone https://github.com/darkancestrallegends-svg/dragons-maze.git
 cd dragons-maze
 
 # Instale as dependências
